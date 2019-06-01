@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-﻿sdfsertertfsf* Write more specs
-=======
-﻿sdfsdfgdfgdfgdgdfgdfsf* Write more specs
->>>>>>> is54
+sdfsdfgdfgdfgdgdfgdfsf* Write more specs
   - There should be detailed specs for most if not all functions
 
-sdfsdfsiuretrerteiuoiuoiu
+sdfsdfsiuiuoiuoiu
 * Switch to using the Grit gem instead of the Git gem
   - This needs to be looked at further, the git gem isn't in 
 active development and yet it seems to provide more 
